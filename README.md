@@ -1,6 +1,6 @@
-# Módulo 3 - Trilha HTML
+HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Recriando o Desciclopédia :)
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
@@ -10,7 +10,7 @@ Neste repositório tem uma estrutura básica já pré-montada de um layout simpl
 
 Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Sigam as intruções da chamada da apresentação.
 
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
